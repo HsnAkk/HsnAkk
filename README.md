@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="15%">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="20%">
 </p>
 
-#### 💻 I'm a Full Stack Developer & life long Learner.
+#### 👨🏼‍💻 I'm Hasan, a Full Stack Developer & life long Learner from Germany.
 
 #### 💼 Currently working as WebDev Lecturer at <a href="https://digitalcareerinstitute.org/" target="_blank"><b>DCI</b></a>
 
-#### Portfolio: <a href="www.webtechsolutions.de" target="_blank" >www.webtechsolutions.de</a>
+#### 📝 Portfolio: <a href="www.webtechsolutions.de" target="_blank" >www.webtechsolutions.de</a>
 
 ---
 
@@ -35,7 +35,7 @@
 
 --- 
 
-### Github Stats
+### Github Stats 📉
 
 ![Hasan's github stats](https://github-readme-stats.vercel.app/api?username=HsnAkk&show_icons=true&line_height=30)
 
