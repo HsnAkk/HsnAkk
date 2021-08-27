@@ -4,19 +4,19 @@
   <br />
 </p> 
 
-### Hello! I'm Hasan Akkas a Full Stack Developer from Germany.
+## Hello! I'm Hasan Akkas a Full Stack Developer from Germany.
 
 ---
 
-### 💼 Currently working as:** WebDev Lecturer at <a href="https://digitalcareerinstitute.org/" target="_blank"><b>DCI</b></a>
+## 💼 Currently working as: WebDev Lecturer at <a href="https://digitalcareerinstitute.org/" target="_blank"><b>DCI</b></a>
 
 ---
 
-### Portfolio: https://HsnAkk.github.io
+## Portfolio: https://HsnAkk.github.io
 
 ---
 
-### Languages & Frameworks 🌐
+## Languages & Frameworks 🌐
 
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
