@@ -36,15 +36,18 @@
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/jira.png"/></a>
 
+--- 
 
 ### Github Stats
 
 ![Hasan's github stats](https://github-readme-stats.vercel.app/api?username=HsnAkk&show_icons=true&line_height=30)
 
+---
+
 ### 📫 Get In Touch
-<a href="https://www.linkedin.com/in/hasan-akkas/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" > </a> &nbsp; &nbsp;
-<a href="https://www.xing.com/profile/Hasan_Akkas6/cv"><img src="https://www.vectorlogo.zone/logos/xing/xing-icon.svg" width="30px" > </a> &nbsp; &nbsp;
-<a href="https://medium.com/@hasan.akkas123"><img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" width="30px" > </a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/hasan-akkas/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20px" > </a> &nbsp; &nbsp;
+<a href="https://www.xing.com/profile/Hasan_Akkas6/cv" target="_blank"><img src="https://www.vectorlogo.zone/logos/xing/xing-icon.svg" width="30px" > </a> &nbsp; &nbsp;
+<a href="https://medium.com/@hasan.akkas123" target="_blank"><img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" width="30px" > </a> &nbsp; &nbsp;
 <a href="mailto:hasan.akkas@web.de"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
 
 
