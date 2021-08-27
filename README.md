@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/IhO5Kk5sPEOPshs4n4/giphy.gif" width="50%">
-  <br />
-  <br />
-</p> 
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <br><br>
+</p>
 
-#### 💻 I'm a Full Stack Developer from Germany.
+#### 💻 I'm a Full Stack Developer & life long learner from Germany.
 
 #### 💼 Currently working as: WebDev Lecturer at <a href="https://digitalcareerinstitute.org/" target="_blank"><b>DCI</b></a>
 
@@ -14,27 +13,26 @@
 
 ### 🌐 Languages & Frameworks 
 
-<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-<a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
-<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
-<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-<a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
-<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
-<a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-<a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/express.png"/></a>
-<a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
-<a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/graphql.png"/></a>
-<a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/markdown.png"/></a>
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img src="https://img.icons8.com/color/48/000000/sass.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img src="https://img.icons8.com/color/48/000000/redux.png"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/48/000000/express.png"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img src="https://img.icons8.com/color/48/000000/graphql.png"/>
+<img src="https://img.icons8.com/color/48/000000/markdown.png"/>
 
 ### Tools 🛠️
-<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
-<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
-<a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
-<br />
-<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>
-<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/jira.png"/></a>
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
+<<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+<img src="https://img.icons8.com/color/48/000000/jira.png"/>
 
 --- 
 
@@ -45,9 +43,9 @@
 ---
 
 ### 📫 Get In Touch
-<a href="https://www.linkedin.com/in/hasan-akkas/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20px" > </a> &nbsp; &nbsp;
-<a href="https://www.xing.com/profile/Hasan_Akkas6/cv" target="_blank"><img src="https://www.vectorlogo.zone/logos/xing/xing-icon.svg" width="30px" > </a> &nbsp; &nbsp;
-<a href="https://medium.com/@hasan.akkas123" target="_blank"><img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" width="30px" > </a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/hasan-akkas/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="25px" > </a> &nbsp; &nbsp;
+<a href="https://www.xing.com/profile/Hasan_Akkas6/cv" target="_blank"><img src="https://www.vectorlogo.zone/logos/xing/xing-icon.svg" width="25px" > </a> &nbsp; &nbsp;
+<a href="https://medium.com/@hasan.akkas123" target="_blank"><img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" width="25px" > </a> &nbsp; &nbsp;
 <a href="mailto:hasan.akkas@web.de"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
 
 
