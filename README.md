@@ -12,7 +12,7 @@
 
 ---
 
-#### Portfolio: https://HsnAkk.github.io
+#### Portfolio: www.webtechsolutions.de
 
 ---
 
@@ -46,7 +46,9 @@
 ![Hasan's github stats](https://github-readme-stats.vercel.app/api?username=HsnAkk&show_icons=true&line_height=30)
 
 #### 📫 Get In Touch
-<!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/hasan-akkas/)-->
+[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/hasan-akkas/)
+[![Xing](https://www.vectorlogo.zone/logos/xing/xing-icon.svg)](https://www.xing.com/profile/Hasan_Akkas6/cv)
+[![Xing](https://www.vectorlogo.zone/logos/medium/medium-icon.svg)](https://medium.com/@hasan.akkas123)
 <a href="mailto:hasan.akkas@web.de"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
 
