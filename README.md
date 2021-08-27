@@ -13,25 +13,25 @@
 
 ### 🌐 Languages & Frameworks 
 
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-<img src="https://img.icons8.com/color/48/000000/sass.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img src="https://img.icons8.com/color/48/000000/redux.png"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img src="https://img.icons8.com/color/48/000000/express.png"/>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img src="https://img.icons8.com/color/48/000000/graphql.png"/>
-<img src="https://img.icons8.com/color/48/000000/markdown.png"/>
+<a href="#" ><img src="https://img.icons8.com/color/48/000000/html-5.png" width="25px" /></a>
+<a href="#" ><img src="https://img.icons8.com/color/48/000000/css3.png" width="25px" /></a>
+<a href="#" ><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="25px" /></a>
+<a href="#" ><img src="https://img.icons8.com/color/48/000000/sass.png" width="25px" /></a>
+<a href="#" ><img src="https://img.icons8.com/color/48/000000/javascript.png" width="25px" /></a>
+<a href="#" ><img src="https://img.icons8.com/color/48/000000/typescript.png" width="25px" /></a>
+<a href="#" ><img src="https://img.icons8.com/color/48/000000/react-native.png" width="25px" /></a>
+<a href="#" ><img src="https://img.icons8.com/color/48/000000/redux.png" width="25px" /></a>
+<a href="#" ><img src="https://img.icons8.com/color/48/000000/nodejs.png" width="25px" /></a>
+<a href="#" ><img src="https://img.icons8.com/color/48/000000/express.png" width="25px" /></a>
+<a href="#" ><img src="https://img.icons8.com/color/48/000000/mongodb.png" width="25px" /></a>
+<a href="#" ><img src="https://img.icons8.com/color/48/000000/graphql.png" width="25px" /></a>
+<a href="#" ><img src="https://img.icons8.com/color/48/000000/markdown.png" width="25px" /></a>
 
 ### Tools 🛠️
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
-<<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+<img src="https://img.icons8.com/color/48/000000/npm.png"/>
 <img src="https://img.icons8.com/color/48/000000/jira.png"/>
 
 --- 
