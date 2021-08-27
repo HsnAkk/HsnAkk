@@ -4,7 +4,7 @@
   <br />
 </p> 
 
-#### I'm a Full Stack Developer from Germany.
+#### 💻 I'm a Full Stack Developer from Germany.
 
 --
 
@@ -45,7 +45,10 @@
 
 ![Hasan's github stats](https://github-readme-stats.vercel.app/api?username=HsnAkk&show_icons=true&line_height=30)
 
-
+#### 📫 Get In Touch
+<!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/hasan-akkas/)-->
+<a href="mailto:hasan.akkas@web.de"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+&nbsp; &nbsp;
 
 
 
