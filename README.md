@@ -6,7 +6,15 @@
 
 ### Hello! I'm Hasan Akkas a Full Stack Developer from Germany.
 
+---
+
+**💼 Currently working as:** WebDev Lecturer at <a href="https://digitalcareerinstitute.org/" target="_blank"><b>DCI</b></a>
+
+---
+
 ### Portfolio: https://HsnAkk.github.io
+
+---
 
 ### Languages & Frameworks 🌐
 
