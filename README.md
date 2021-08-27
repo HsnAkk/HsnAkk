@@ -8,7 +8,7 @@
 
 ---
 
-**💼 Currently working as:** WebDev Lecturer at <a href="https://digitalcareerinstitute.org/" target="_blank"><b>DCI</b></a>
+### 💼 Currently working as:** WebDev Lecturer at <a href="https://digitalcareerinstitute.org/" target="_blank"><b>DCI</b></a>
 
 ---
 
