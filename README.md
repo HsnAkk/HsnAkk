@@ -6,17 +6,13 @@
 
 #### 💻 I'm a Full Stack Developer from Germany.
 
---
-
 #### 💼 Currently working as: WebDev Lecturer at <a href="https://digitalcareerinstitute.org/" target="_blank"><b>DCI</b></a>
-
----
 
 #### Portfolio: www.webtechsolutions.de
 
 ---
 
-#### 🌐 Languages & Frameworks 
+### 🌐 Languages & Frameworks 
 
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
@@ -31,7 +27,7 @@
 <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/graphql.png"/></a>
 <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/markdown.png"/></a>
 
-#### Tools 🛠️
+### Tools 🛠️
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
@@ -41,16 +37,15 @@
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/jira.png"/></a>
 
 
-#### Github Stats
+### Github Stats
 
 ![Hasan's github stats](https://github-readme-stats.vercel.app/api?username=HsnAkk&show_icons=true&line_height=30)
 
-#### 📫 Get In Touch
-[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/hasan-akkas/)
-[![Xing](https://www.vectorlogo.zone/logos/xing/xing-icon.svg)](https://www.xing.com/profile/Hasan_Akkas6/cv)
-[![Xing](https://www.vectorlogo.zone/logos/medium/medium-icon.svg)](https://medium.com/@hasan.akkas123)
-<a href="mailto:hasan.akkas@web.de"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
-&nbsp; &nbsp;
+### 📫 Get In Touch
+<a href="https://www.linkedin.com/in/hasan-akkas/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" > </a> &nbsp; &nbsp;
+<a href="https://www.xing.com/profile/Hasan_Akkas6/cv"><img src="https://www.vectorlogo.zone/logos/xing/xing-icon.svg" width="30px" > </a> &nbsp; &nbsp;
+<a href="https://medium.com/@hasan.akkas123"><img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" width="30px" > </a> &nbsp; &nbsp;
+<a href="mailto:hasan.akkas@web.de"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
 
 
 
