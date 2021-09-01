@@ -35,11 +35,11 @@
 
 --- 
 
-// ### Github Stats 📉
+### Github Stats 📉
 
-// ![Hasan's github stats](https://github-readme-stats.vercel.app/api?username=HsnAkk&show_icons=true&line_height=30)
+![Hasan's github stats](https://github-readme-stats.vercel.app/api?username=HsnAkk&show_icons=true&line_height=30)
 
-// ---
+---
 
 ### Get In Touch 📫 
 <a href="https://www.linkedin.com/in/hasan-akkas/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="25px" > </a> &nbsp; &nbsp;
