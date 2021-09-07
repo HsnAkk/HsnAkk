@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="20%">
+  <img src="https://i.pinimg.com/originals/09/3f/18/093f1861fc92b3a0ba497ece177b27e6.gif" width="20%">
 </p>
 
 #### 👨🏼‍💻   I'm Hasan, a Full Stack Developer & life long Learner.
