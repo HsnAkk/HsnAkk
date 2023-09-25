@@ -2,11 +2,11 @@
   <img src="https://i.pinimg.com/originals/09/3f/18/093f1861fc92b3a0ba497ece177b27e6.gif" width="40%">
 </p>
 
-#### 👨🏼‍💻   __I'm Hasan, a Full Stack Developer & life long Learner.
+#### 👨🏼‍💻   __I'm Hasan, a Full Stack Developer || Cyber Security Enthusiast || SDET Enthusiast || life long Learner.
 
-#### 💼   __Currently working as WebDev Lecturer at <a href="https://digitalcareerinstitute.org/" target="_blank"><b>DCI</b></a>
+<!-- #### 💼   __Currently working as WebDev Lecturer at <a href="https://digitalcareerinstitute.org/" target="_blank"><b>DCI</b></a>
 
-#### 📝   __Portfolio: <a href="www.webtechsolutions.de" target="_blank" >www.webtechsolutions.de</a>
+#### 📝   __Portfolio: <a href="www.webtechsolutions.de" target="_blank" >www.webtechsolutions.de</a> -->
 
 ---
 
